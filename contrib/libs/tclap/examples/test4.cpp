@@ -2,7 +2,7 @@
 
 #include "tclap/CmdLine.h"
 #include "tclap/DocBookOutput.h"
-#include "tclap/ZshCompletionOutput.h"
+//#include "tclap/ZshCompletionOutput.h"
 #include <iostream>
 #include <string>
 
